@@ -1,0 +1,57 @@
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.deps.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Common.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.DataAccess.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.DataAccess.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.AssemblyReference.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.AssemblyInfoInputs.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.AssemblyInfo.cs
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.CopyComplete
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\refint\Control14.NetCore.BusinessLogic.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\ref\Control14.NetCore.BusinessLogic.dll
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.deps.json
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Common.dll
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.DataAccess.dll
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.DataAccess.pdb
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.AssemblyReference.cache
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.AssemblyInfoInputs.cache
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.AssemblyInfo.cs
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.CopyComplete
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\refint\Control14.NetCore.BusinessLogic.dll
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+D:\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\ref\Control14.NetCore.BusinessLogic.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.deps.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.DataAccess.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.DataAccess.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.AssemblyInfo.cs
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.csproj.CopyComplete
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\refint\Control14.NetCore.BusinessLogic.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.BusinessLogic\obj\Debug\net8.0\ref\Control14.NetCore.BusinessLogic.dll

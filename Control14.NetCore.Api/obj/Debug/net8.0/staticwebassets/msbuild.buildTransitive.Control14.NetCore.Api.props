@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Control14.NetCore.Api.props" />
+</Project>

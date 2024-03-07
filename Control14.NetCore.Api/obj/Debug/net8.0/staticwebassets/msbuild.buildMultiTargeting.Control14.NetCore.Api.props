@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Control14.NetCore.Api.props" />
+</Project>

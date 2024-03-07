@@ -1,0 +1,36 @@
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.deps.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.csproj.AssemblyReference.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.AssemblyInfoInputs.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.AssemblyInfo.cs
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\refint\Control14.NetCore.Common.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\ref\Control14.NetCore.Common.dll
+D:\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.deps.json
+D:\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.dll
+D:\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.csproj.AssemblyReference.cache
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.AssemblyInfoInputs.cache
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.AssemblyInfo.cs
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.csproj.CoreCompileInputs.cache
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.dll
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\refint\Control14.NetCore.Common.dll
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.pdb
+D:\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\ref\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.deps.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.csproj.AssemblyReference.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.AssemblyInfoInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.AssemblyInfo.cs
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.csproj.CoreCompileInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\refint\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\ref\Control14.NetCore.Common.dll

@@ -1,0 +1,543 @@
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.AssemblyReference.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.AssemblyInfoInputs.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.AssemblyInfo.cs
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\appsettings.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.staticwebassets.runtime.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.exe
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.deps.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.runtimeconfig.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\log4net.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\QuestPDF.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\SkiaSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Common.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.DataAccess.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.DataAccess.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.Control14.NetCore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Control14.NetCore.Api.props
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Control14.NetCore.Api.props
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Control14.NetCore.Api.props
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\scopedcss\bundle\Control14.NetCore.Api.styles.css
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.CopyComplete
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\refint\Control14.NetCore.Api.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.genruntimeconfig.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\ref\Control14.NetCore.Api.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.AssemblyReference.cache
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.AssemblyInfoInputs.cache
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.AssemblyInfo.cs
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.CoreCompileInputs.cache
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\refint\Control14.NetCore.Api.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.pdb
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\appsettings.json
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.staticwebassets.runtime.json
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.exe
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.deps.json
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.runtimeconfig.json
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.pdb
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\log4net.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\QuestPDF.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\SkiaSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Common.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.DataAccess.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+D:\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.DataAccess.pdb
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.Control14.NetCore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Control14.NetCore.Api.props
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Control14.NetCore.Api.props
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Control14.NetCore.Api.props
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\scopedcss\bundle\Control14.NetCore.Api.styles.css
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.CopyComplete
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.genruntimeconfig.cache
+D:\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\ref\Control14.NetCore.Api.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.staticwebassets.runtime.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.exe
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.deps.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.runtimeconfig.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Api.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\log4net.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\QuestPDF.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.File.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.Async.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Serilog.Sinks.RollingFile.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.DataAccess.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.BusinessLogic.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\bin\Debug\net8.0\Control14.NetCore.DataAccess.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.AssemblyReference.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.AssemblyInfoInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.AssemblyInfo.cs
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.CoreCompileInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.Control14.NetCore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Control14.NetCore.Api.props
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Control14.NetCore.Api.props
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Control14.NetCore.Api.props
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\scopedcss\bundle\Control14.NetCore.Api.styles.css
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.csproj.CopyComplete
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\refint\Control14.NetCore.Api.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.genruntimeconfig.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\ref\Control14.NetCore.Api.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Api\obj\Debug\net8.0\Control14.NetCore.Api.MvcApplicationPartsAssemblyInfo.cs

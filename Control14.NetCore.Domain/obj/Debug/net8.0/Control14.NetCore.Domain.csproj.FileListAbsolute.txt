@@ -1,0 +1,33 @@
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.deps.json
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.AssemblyInfoInputs.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.AssemblyInfo.cs
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\refint\Control14.NetCore.Domain.dll
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.pdb
+D:\DESARROLLO\challen .net de argentina\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\ref\Control14.NetCore.Domain.dll
+D:\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.AssemblyInfoInputs.cache
+D:\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.AssemblyInfo.cs
+D:\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.csproj.CoreCompileInputs.cache
+D:\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.dll
+D:\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\refint\Control14.NetCore.Domain.dll
+D:\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.pdb
+D:\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.deps.json
+D:\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+D:\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+D:\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\ref\Control14.NetCore.Domain.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.deps.json
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.AssemblyInfoInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.AssemblyInfo.cs
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\refint\Control14.NetCore.Domain.dll
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\Control14.NetCore.Domain.pdb
+C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Domain\obj\Debug\net8.0\ref\Control14.NetCore.Domain.dll
