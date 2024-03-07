@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj": {}
+    "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj": {
+    "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj",
         "projectName": "Control14.NetCore.Domain",
-        "projectPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj",
+        "projectPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj",
         "packagesPath": "C:\\Users\\gisel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\obj\\",
+        "outputPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gisel\\AppData\\Roaming\\NuGet\\NuGet.Config",

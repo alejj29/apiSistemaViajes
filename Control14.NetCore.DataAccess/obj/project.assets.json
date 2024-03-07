@@ -925,11 +925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.DataAccess\\Control14.NetCore.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.DataAccess\\Control14.NetCore.DataAccess.csproj",
       "projectName": "Control14.NetCore.DataAccess",
-      "projectPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.DataAccess\\Control14.NetCore.DataAccess.csproj",
+      "projectPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.DataAccess\\Control14.NetCore.DataAccess.csproj",
       "packagesPath": "C:\\Users\\gisel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gisel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -946,8 +946,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj": {
-              "projectPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj"
+            "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj": {
+              "projectPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj"
             }
           }
         }

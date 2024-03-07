@@ -389,11 +389,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Common\\Control14.NetCore.Common.csproj",
+      "projectUniqueName": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Common\\Control14.NetCore.Common.csproj",
       "projectName": "Control14.NetCore.Common",
-      "projectPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Common\\Control14.NetCore.Common.csproj",
+      "projectPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Common\\Control14.NetCore.Common.csproj",
       "packagesPath": "C:\\Users\\gisel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Common\\obj\\",
+      "outputPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gisel\\AppData\\Roaming\\NuGet\\NuGet.Config",

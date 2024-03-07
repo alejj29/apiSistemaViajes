@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sKCLVxLlVkwAe5lDSCKAlL4ZzPhsMcoAWZMTTV44q0k=",
+  "Hash": "NcCCY0EOOFETMMjr1LAy7xJRjuPdviVe/K0xmOkjQwA=",
   "Source": "Control14.NetCore.Api",
   "BasePath": "_content/Control14.NetCore.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Control14.NetCore.Api\\wwwroot",
       "Source": "Control14.NetCore.Api",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\logos\\hcl.jpg",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\logos\\hcl.jpg",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "logos/hcl.jpg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\logos\\hcl.jpg"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\logos\\msp.jpg",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\logos\\msp.jpg",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "logos/msp.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\logos\\msp.jpg"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\1\\Libro1test1.xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\1\\Libro1test1.xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/1/Libro1test1.xlsx.xlsx",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\1\\Libro1test1.xlsx.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\18\\TP4-GrupoHprueva.xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\18\\TP4-GrupoHprueva.xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/18/TP4-GrupoHprueva.xlsx.xlsx",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\18\\TP4-GrupoHprueva.xlsx.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\19\\Libro1test2.xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\19\\Libro1test2.xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/19/Libro1test2.xlsx.xlsx",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\19\\Libro1test2.xlsx.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\19\\Libro1test4.xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\19\\Libro1test4.xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/19/Libro1test4.xlsx.xlsx",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\19\\Libro1test4.xlsx.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\21\\Boleta_884_ (1).pdf.pdf",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\21\\Boleta_884_ (1).pdf.pdf",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/21/Boleta_884_ (1).pdf.pdf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\21\\Boleta_884_ (1).pdf.pdf"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\22\\PLANTILLA PEDIATRIA (1).xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\22\\PLANTILLA PEDIATRIA (1).xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/22/PLANTILLA PEDIATRIA (1).xlsx.xlsx",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\22\\PLANTILLA PEDIATRIA (1).xlsx.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\23\\Boleta_884_ (1).pdf.pdf",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\23\\Boleta_884_ (1).pdf.pdf",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/23/Boleta_884_ (1).pdf.pdf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\23\\Boleta_884_ (1).pdf.pdf"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\24\\factura2.pdf.pdf",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\24\\factura2.pdf.pdf",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/24/factura2.pdf.pdf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\24\\factura2.pdf.pdf"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\25\\42d8c86dbd9be963c056c29251e02c39.jpg.jpg",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\25\\42d8c86dbd9be963c056c29251e02c39.jpg.jpg",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/25/42d8c86dbd9be963c056c29251e02c39.jpg.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\25\\42d8c86dbd9be963c056c29251e02c39.jpg.jpg"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\26\\Boleta_884_.pdf.pdf",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\26\\Boleta_884_.pdf.pdf",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/26/Boleta_884_.pdf.pdf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\26\\Boleta_884_.pdf.pdf"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\27\\Boleta_884_.pdf.pdf",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\27\\Boleta_884_.pdf.pdf",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/27/Boleta_884_.pdf.pdf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\27\\Boleta_884_.pdf.pdf"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\DatoIngresar.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\DatoIngresar.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/DatoIngresar.xlsx",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\DatoIngresar.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\FormatoCargaDocumentosMDM.xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\FormatoCargaDocumentosMDM.xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/FormatoCargaDocumentosMDM.xlsx.xlsx",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\FormatoCargaDocumentosMDM.xlsx.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\FormatoCargaEstructuraMDM.xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\FormatoCargaEstructuraMDM.xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/FormatoCargaEstructuraMDM.xlsx.xlsx",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\FormatoCargaEstructuraMDM.xlsx.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\listado.xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\listado.xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/listado.xlsx.xlsx",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\users\\vacations\\listado.xlsx.xlsx"
     },
     {
-      "Identity": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\TP4_Grupo-H.xlsx.xlsx",
+      "Identity": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\users\\vacations\\TP4_Grupo-H.xlsx.xlsx",
       "SourceId": "Control14.NetCore.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\wwwroot\\",
       "BasePath": "_content/Control14.NetCore.Api",
       "RelativePath": "users/vacations/TP4_Grupo-H.xlsx.xlsx",
       "AssetKind": "All",

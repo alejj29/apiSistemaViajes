@@ -10600,11 +10600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\Control14.NetCore.Api.csproj",
+      "projectUniqueName": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\Control14.NetCore.Api.csproj",
       "projectName": "Control14.NetCore.Api",
-      "projectPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\Control14.NetCore.Api.csproj",
+      "projectPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\Control14.NetCore.Api.csproj",
       "packagesPath": "C:\\Users\\gisel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\obj\\",
+      "outputPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gisel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10621,11 +10621,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.BusinessLogic\\Control14.NetCore.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.BusinessLogic\\Control14.NetCore.BusinessLogic.csproj"
+            "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.BusinessLogic\\Control14.NetCore.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.BusinessLogic\\Control14.NetCore.BusinessLogic.csproj"
             },
-            "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj": {
-              "projectPath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj"
+            "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj": {
+              "projectPath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Domain\\Control14.NetCore.Domain.csproj"
             }
           }
         }

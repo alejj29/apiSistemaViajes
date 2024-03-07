@@ -43,3 +43,19 @@ C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Cont
 C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.DataAccess\obj\Debug\net8.0\refint\Control14.NetCore.DataAccess.dll
 C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.pdb
 C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.DataAccess\obj\Debug\net8.0\ref\Control14.NetCore.DataAccess.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\bin\Debug\net8.0\Control14.NetCore.DataAccess.deps.json
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\bin\Debug\net8.0\Control14.NetCore.DataAccess.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\bin\Debug\net8.0\Control14.NetCore.DataAccess.pdb
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\bin\Debug\net8.0\Control14.NetCore.Domain.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\bin\Debug\net8.0\Control14.NetCore.Domain.pdb
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.AssemblyInfo.cs
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.sourcelink.json
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.csproj.CopyComplete
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\refint\Control14.NetCore.DataAccess.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\Control14.NetCore.DataAccess.pdb
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.DataAccess\obj\Debug\net8.0\ref\Control14.NetCore.DataAccess.dll

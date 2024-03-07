@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dU+hY0DXPYGWnz/IJKwDtdN4MmrOFitTjE8K4UIMPV0TVv2z7OYTKvBjfBsJDDFNm93qMpRFS9fq5Tb9TGsJjg==",
+  "dgSpecHash": "2LP8sb5PElX0px4oeVKB088g3EuIyoxAnz83tY2ul9BThqdyVpvxH154YwPTK2mXrlo3cTXuuKRhHoer5OTxqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Api\\Control14.NetCore.Api.csproj",
+  "projectFilePath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Api\\Control14.NetCore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gisel\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\gisel\\.nuget\\packages\\azure.identity\\1.10.4\\azure.identity.1.10.4.nupkg.sha512",

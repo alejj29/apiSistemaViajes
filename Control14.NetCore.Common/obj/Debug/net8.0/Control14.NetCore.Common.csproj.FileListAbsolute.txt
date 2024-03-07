@@ -34,3 +34,16 @@ C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Cont
 C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\refint\Control14.NetCore.Common.dll
 C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.pdb
 C:\Users\gisel\OneDrive\Escritorio\proyecto ale\backend.control14.core-main\Control14.NetCore.Common\obj\Debug\net8.0\ref\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.deps.json
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\bin\Debug\net8.0\Control14.NetCore.Common.pdb
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.csproj.AssemblyReference.cache
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.AssemblyInfoInputs.cache
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.AssemblyInfo.cs
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.csproj.CoreCompileInputs.cache
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.sourcelink.json
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\refint\Control14.NetCore.Common.dll
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\Control14.NetCore.Common.pdb
+C:\Users\gisel\OneDrive\Documentos\gitgup sistema de challen argentina\apiSistemaViajes\Control14.NetCore.Common\obj\Debug\net8.0\ref\Control14.NetCore.Common.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqK4E7it+LWUuki4EmH/MtCLYmK6EuktfKadfyACmfoYyN3BnfwFAjRWyXS5qA8wcWZqob9QwUbLqF6+LJ41+Q==",
+  "dgSpecHash": "yhBG2/fmMnU75I+kItiKkd0E15xZ1AkQv5HeMaEVq92pb9lEDGlqGOxF2p2srQn6952/i8KJxNwa9Tfml4Pikg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.BusinessLogic\\Control14.NetCore.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.BusinessLogic\\Control14.NetCore.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gisel\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
     "C:\\Users\\gisel\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",

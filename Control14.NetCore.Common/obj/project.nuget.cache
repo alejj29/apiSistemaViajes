@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "caVHu6DyQY06a+xKndLVfnJt9kzWgPjwsuh08QJinmtxDG6NAqqFuKtd8QQWjNrxjNLUSCgGRj7wHtChaxYITA==",
+  "dgSpecHash": "iClXacezrIAsj/MTH6ongOoPDr6TnJU4DnnewJHf5Z9LHOcg+gYH+nJjY2eXm85FZpMFSbPw+8Wl3YGBOWWnlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gisel\\OneDrive\\Escritorio\\proyecto ale\\backend.control14.core-main\\Control14.NetCore.Common\\Control14.NetCore.Common.csproj",
+  "projectFilePath": "C:\\Users\\gisel\\OneDrive\\Documentos\\gitgup sistema de challen argentina\\apiSistemaViajes\\Control14.NetCore.Common\\Control14.NetCore.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gisel\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\gisel\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
